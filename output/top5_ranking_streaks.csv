@@ -1,0 +1,193 @@
+season,team,streak_start_date,streak_end_date,streak_length
+2008,Chennai Super Kings,2008-04-19,2008-06-01,16
+2008,Delhi Capitals,2008-04-19,2008-05-30,14
+2008,Kolkata Knight Riders,2008-04-18,2008-05-03,6
+2008,Kolkata Knight Riders,2008-05-11,2008-05-18,4
+2008,Mumbai Indians,2008-05-18,2008-05-28,5
+2008,Punjab Kings,2008-04-19,2008-04-21,2
+2008,Punjab Kings,2008-04-27,2008-05-31,12
+2008,Rajasthan Royals,2008-04-19,2008-06-01,16
+2008,Royal Challengers Bengaluru,2008-04-18,2008-04-26,3
+2009,Chennai Super Kings,2009-04-18,2009-04-27,4
+2009,Chennai Super Kings,2009-05-04,2009-05-23,8
+2009,Deccan Chargers,2009-04-19,2009-05-24,16
+2009,Delhi Capitals,2009-04-19,2009-05-22,15
+2009,Kolkata Knight Riders,2009-04-23,2009-04-27,2
+2009,Mumbai Indians,2009-04-18,2009-05-03,6
+2009,Punjab Kings,2009-04-26,2009-05-12,8
+2009,Punjab Kings,2009-05-17,2009-05-20,2
+2009,Rajasthan Royals,2009-04-26,2009-04-30,3
+2009,Rajasthan Royals,2009-05-07,2009-05-17,5
+2009,Royal Challengers Bengaluru,2009-04-18,2009-04-26,5
+2009,Royal Challengers Bengaluru,2009-05-01,2009-05-07,3
+2009,Royal Challengers Bengaluru,2009-05-14,2009-05-24,5
+2010,Chennai Super Kings,2010-03-19,2010-03-25,4
+2010,Chennai Super Kings,2010-04-06,2010-04-10,2
+2010,Chennai Super Kings,2010-04-15,2010-04-25,4
+2010,Deccan Chargers,2010-03-12,2010-03-14,2
+2010,Deccan Chargers,2010-03-21,2010-04-01,4
+2010,Deccan Chargers,2010-04-12,2010-04-24,5
+2010,Delhi Capitals,2010-03-13,2010-04-18,14
+2010,Kolkata Knight Riders,2010-03-12,2010-03-22,5
+2010,Kolkata Knight Riders,2010-03-29,2010-04-04,3
+2010,Mumbai Indians,2010-03-13,2010-04-25,16
+2010,Punjab Kings,2010-03-13,2010-03-16,2
+2010,Rajasthan Royals,2010-03-13,2010-03-15,2
+2010,Rajasthan Royals,2010-03-26,2010-04-17,9
+2010,Royal Challengers Bengaluru,2010-03-14,2010-04-24,16
+2011,Chennai Super Kings,2011-04-08,2011-04-22,5
+2011,Chennai Super Kings,2011-04-27,2011-05-28,10
+2011,Kochi Tuskers Kerala,2011-04-20,2011-04-27,3
+2011,Kochi Tuskers Kerala,2011-05-05,2011-05-13,3
+2011,Kolkata Knight Riders,2011-04-15,2011-05-25,13
+2011,Mumbai Indians,2011-04-10,2011-05-27,16
+2011,Pune Warriors,2011-04-10,2011-04-20,4
+2011,Punjab Kings,2011-04-21,2011-04-23,2
+2011,Punjab Kings,2011-05-15,2011-05-21,3
+2011,Rajasthan Royals,2011-04-09,2011-05-11,11
+2011,Royal Challengers Bengaluru,2011-04-09,2011-04-16,4
+2011,Royal Challengers Bengaluru,2011-05-08,2011-05-28,8
+2012,Chennai Super Kings,2012-04-10,2012-04-14,3
+2012,Chennai Super Kings,2012-04-21,2012-05-06,5
+2012,Chennai Super Kings,2012-05-12,2012-05-27,6
+2012,Delhi Capitals,2012-04-05,2012-05-25,18
+2012,Kolkata Knight Riders,2012-04-15,2012-05-27,13
+2012,Mumbai Indians,2012-04-04,2012-04-22,6
+2012,Mumbai Indians,2012-04-27,2012-05-23,10
+2012,Pune Warriors,2012-04-06,2012-05-03,11
+2012,Punjab Kings,2012-05-02,2012-05-08,3
+2012,Punjab Kings,2012-05-15,2012-05-19,3
+2012,Rajasthan Royals,2012-04-06,2012-05-01,10
+2012,Rajasthan Royals,2012-05-08,2012-05-10,2
+2012,Royal Challengers Bengaluru,2012-04-07,2012-04-12,3
+2012,Royal Challengers Bengaluru,2012-04-28,2012-05-02,2
+2012,Royal Challengers Bengaluru,2012-05-11,2012-05-14,2
+2013,Chennai Super Kings,2013-04-13,2013-05-26,16
+2013,Delhi Capitals,2013-04-03,2013-04-06,2
+2013,Kolkata Knight Riders,2013-04-03,2013-04-11,3
+2013,Mumbai Indians,2013-04-04,2013-04-21,6
+2013,Mumbai Indians,2013-04-27,2013-05-26,12
+2013,Punjab Kings,2013-04-23,2013-04-26,2
+2013,Rajasthan Royals,2013-04-06,2013-05-24,18
+2013,Royal Challengers Bengaluru,2013-04-04,2013-05-18,16
+2013,Sunrisers Hyderabad,2013-04-05,2013-05-22,17
+2014,Chennai Super Kings,2014-04-23,2014-05-30,14
+2014,Delhi Capitals,2014-04-17,2014-04-25,4
+2014,Delhi Capitals,2014-05-03,2014-05-07,3
+2014,Kolkata Knight Riders,2014-04-16,2014-06-01,16
+2014,Mumbai Indians,2014-04-16,2014-04-19,2
+2014,Mumbai Indians,2014-05-25,2014-05-28,2
+2014,Punjab Kings,2014-04-18,2014-06-01,17
+2014,Rajasthan Royals,2014-04-18,2014-05-25,14
+2014,Royal Challengers Bengaluru,2014-04-17,2014-05-09,8
+2014,Royal Challengers Bengaluru,2014-05-18,2014-05-22,3
+2014,Sunrisers Hyderabad,2014-05-10,2014-05-14,3
+2014,Sunrisers Hyderabad,2014-05-22,2014-05-24,2
+2015,Chennai Super Kings,2015-04-09,2015-05-24,17
+2015,Delhi Capitals,2015-04-09,2015-04-12,2
+2015,Delhi Capitals,2015-04-18,2015-05-05,7
+2015,Kolkata Knight Riders,2015-04-08,2015-05-16,13
+2015,Mumbai Indians,2015-04-08,2015-04-12,2
+2015,Mumbai Indians,2015-05-05,2015-05-10,3
+2015,Mumbai Indians,2015-05-17,2015-05-24,3
+2015,Punjab Kings,2015-04-10,2015-04-25,6
+2015,Rajasthan Royals,2015-04-10,2015-05-10,12
+2015,Royal Challengers Bengaluru,2015-04-11,2015-04-19,3
+2015,Royal Challengers Bengaluru,2015-04-26,2015-05-06,5
+2015,Royal Challengers Bengaluru,2015-05-13,2015-05-22,5
+2015,Sunrisers Hyderabad,2015-04-16,2015-04-18,2
+2015,Sunrisers Hyderabad,2015-05-11,2015-05-17,3
+2016,Delhi Capitals,2016-04-17,2016-05-17,10
+2016,Gujarat Lions,2016-04-11,2016-05-27,16
+2016,Kolkata Knight Riders,2016-04-10,2016-05-25,15
+2016,Mumbai Indians,2016-04-09,2016-05-21,14
+2016,Rising Pune Supergiant,2016-04-09,2016-04-17,3
+2016,Royal Challengers Bengaluru,2016-04-12,2016-04-20,3
+2016,Royal Challengers Bengaluru,2016-05-18,2016-05-29,4
+2016,Sunrisers Hyderabad,2016-04-21,2016-05-29,14
+2017,Delhi Capitals,2017-04-15,2017-04-22,4
+2017,Kolkata Knight Riders,2017-04-07,2017-05-19,16
+2017,Mumbai Indians,2017-04-12,2017-05-21,15
+2017,Punjab Kings,2017-04-08,2017-05-14,14
+2017,Rising Pune Supergiant,2017-04-06,2017-04-14,4
+2017,Rising Pune Supergiant,2017-04-22,2017-05-21,11
+2017,Royal Challengers Bengaluru,2017-04-05,2017-04-14,4
+2017,Sunrisers Hyderabad,2017-04-05,2017-05-17,14
+2018,Chennai Super Kings,2018-04-07,2018-05-27,16
+2018,Delhi Capitals,2018-04-08,2018-04-11,2
+2018,Kolkata Knight Riders,2018-04-08,2018-05-25,16
+2018,Mumbai Indians,2018-05-06,2018-05-13,3
+2018,Punjab Kings,2018-04-08,2018-05-20,14
+2018,Rajasthan Royals,2018-04-09,2018-05-02,8
+2018,Rajasthan Royals,2018-05-13,2018-05-23,4
+2018,Sunrisers Hyderabad,2018-04-09,2018-05-27,17
+2019,Chennai Super Kings,2019-03-23,2019-05-12,17
+2019,Delhi Capitals,2019-03-24,2019-04-04,5
+2019,Delhi Capitals,2019-04-12,2019-05-10,10
+2019,Kolkata Knight Riders,2019-03-24,2019-04-21,10
+2019,Mumbai Indians,2019-03-24,2019-03-30,3
+2019,Mumbai Indians,2019-04-06,2019-05-12,12
+2019,Punjab Kings,2019-03-25,2019-04-29,12
+2019,Royal Challengers Bengaluru,2019-03-23,2019-03-28,2
+2019,Sunrisers Hyderabad,2019-03-31,2019-04-08,4
+2019,Sunrisers Hyderabad,2019-04-21,2019-05-08,7
+2020,Chennai Super Kings,2020-09-19,2020-09-25,3
+2020,Chennai Super Kings,2020-10-17,2020-10-19,2
+2020,Delhi Capitals,2020-09-20,2020-11-10,17
+2020,Kolkata Knight Riders,2020-09-30,2020-11-01,12
+2020,Mumbai Indians,2020-09-19,2020-11-10,16
+2020,Punjab Kings,2020-09-27,2020-10-01,2
+2020,Punjab Kings,2020-10-24,2020-11-01,4
+2020,Rajasthan Royals,2020-09-22,2020-10-06,5
+2020,Rajasthan Royals,2020-10-14,2020-10-22,4
+2020,Royal Challengers Bengaluru,2020-09-21,2020-11-06,15
+2020,Sunrisers Hyderabad,2020-10-04,2020-10-18,5
+2020,Sunrisers Hyderabad,2020-11-03,2020-11-08,3
+2021,Chennai Super Kings,2021-04-19,2021-10-15,14
+2021,Delhi Capitals,2021-04-10,2021-10-13,16
+2021,Kolkata Knight Riders,2021-04-11,2021-04-21,4
+2021,Kolkata Knight Riders,2021-09-26,2021-10-15,8
+2021,Mumbai Indians,2021-04-09,2021-10-08,14
+2021,Punjab Kings,2021-04-12,2021-09-21,9
+2021,Rajasthan Royals,2021-04-19,2021-04-22,2
+2021,Rajasthan Royals,2021-09-21,2021-09-27,3
+2021,Royal Challengers Bengaluru,2021-04-09,2021-10-11,15
+2022,Delhi Capitals,2022-03-27,2022-04-02,2
+2022,Delhi Capitals,2022-05-08,2022-05-21,4
+2022,Gujarat Titans,2022-03-28,2022-05-29,16
+2022,Kolkata Knight Riders,2022-03-26,2022-04-18,7
+2022,Lucknow Super Giants,2022-04-04,2022-05-25,13
+2022,Punjab Kings,2022-03-27,2022-04-08,4
+2022,Rajasthan Royals,2022-03-29,2022-05-29,17
+2022,Royal Challengers Bengaluru,2022-04-09,2022-05-27,13
+2022,Sunrisers Hyderabad,2022-04-17,2022-05-08,6
+2023,Chennai Super Kings,2023-04-08,2023-05-29,14
+2023,Gujarat Titans,2023-03-31,2023-05-29,17
+2023,Kolkata Knight Riders,2023-04-14,2023-04-16,2
+2023,Lucknow Super Giants,2023-04-01,2023-05-24,15
+2023,Mumbai Indians,2023-05-06,2023-05-26,7
+2023,Punjab Kings,2023-04-01,2023-05-08,11
+2023,Rajasthan Royals,2023-04-02,2023-05-14,13
+2023,Royal Challengers Bengaluru,2023-04-02,2023-04-06,2
+2023,Royal Challengers Bengaluru,2023-05-06,2023-05-09,2
+2023,Royal Challengers Bengaluru,2023-05-18,2023-05-21,2
+2024,Chennai Super Kings,2024-03-22,2024-04-23,8
+2024,Chennai Super Kings,2024-05-01,2024-05-18,5
+2024,Delhi Capitals,2024-04-27,2024-04-29,2
+2024,Delhi Capitals,2024-05-12,2024-05-14,2
+2024,Gujarat Titans,2024-03-24,2024-04-07,5
+2024,Kolkata Knight Riders,2024-03-23,2024-05-26,14
+2024,Lucknow Super Giants,2024-04-02,2024-05-14,11
+2024,Punjab Kings,2024-03-23,2024-03-30,3
+2024,Rajasthan Royals,2024-03-24,2024-05-24,15
+2024,Royal Challengers Bengaluru,2024-03-29,2024-04-02,2
+2024,Sunrisers Hyderabad,2024-04-09,2024-05-26,12
+2025,Chennai Super Kings,2025-03-23,2025-03-30,3
+2025,Delhi Capitals,2025-03-24,2025-05-24,15
+2025,Gujarat Titans,2025-04-02,2025-05-30,13
+2025,Kolkata Knight Riders,2025-03-31,2025-04-08,3
+2025,Lucknow Super Giants,2025-04-08,2025-04-27,6
+2025,Mumbai Indians,2025-04-27,2025-06-01,7
+2025,Punjab Kings,2025-03-25,2025-06-03,18
+2025,Royal Challengers Bengaluru,2025-03-22,2025-06-03,15
+2025,Sunrisers Hyderabad,2025-03-23,2025-04-03,4
