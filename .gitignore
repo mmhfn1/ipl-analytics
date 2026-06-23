@@ -24,4 +24,3 @@ env/
 
 # Large raw data — bring your own CSV, not committed to the repo
 *.csv.gz
-CRICKET_DATASET.csv
