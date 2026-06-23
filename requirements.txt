@@ -1,0 +1,6 @@
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+scikit-learn>=1.3
+
+# Tested against: pandas 3.0.2, numpy 2.4.4, scipy 1.17.1, scikit-learn 1.8.0
