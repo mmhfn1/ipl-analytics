@@ -1,0 +1,58 @@
+name: Deploy Dashboard to GitHub Pages
+
+# Runs on every push to main, and can be triggered manually from the Actions tab.
+# The pipeline (main.py) is NOT run here — CRICKET_DATASET.csv is gitignored.
+# Commit a freshly built dashboard/index.html and this workflow publishes it.
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "dashboard/index.html"   # only re-deploy when the dashboard actually changes
+      - ".github/workflows/deploy.yml"
+  workflow_dispatch:             # manual trigger from Actions tab
+
+# Required for the Pages deployment action to write to the gh-pages environment
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Prevent two deployments from running simultaneously
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    name: Deploy to GitHub Pages
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # GitHub Pages needs the file at the root of the upload artifact.
+      # We copy dashboard/index.html into a staging directory so the
+      # deployed URL is simply https://<user>.github.io/<repo>/
+      - name: Stage files for Pages
+        run: |
+          mkdir -p _site
+          cp dashboard/index.html _site/index.html
+          echo "Staged files:"
+          ls -lh _site/
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
